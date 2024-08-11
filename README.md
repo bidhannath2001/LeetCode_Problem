@@ -1,2 +1,2 @@
 # LeetCode_Problem
-This is my personal repository. In order to remember all solution process I save question and answer in this section.
+This is my personal repository. To remember the entire solution process, I store both the questions and answers in this section.
